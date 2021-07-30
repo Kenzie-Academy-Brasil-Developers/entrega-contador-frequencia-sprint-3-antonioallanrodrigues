@@ -1,0 +1,18 @@
+    body {
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    body textarea {
+        width: 80vw;
+        margin-top: 3%;
+    }
+    
+    div {
+        margin-right: 10%;
+        margin-left: 10%;
+        margin-top: 3%;
+    }
